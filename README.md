@@ -36,8 +36,11 @@ I'm passionate about **Java backend development**, web technologies, and learnin
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-### Tools  
+### Security, Authentication & Authorization  
+![Spring Security](https://img.shields.io/badge/-Spring%20Security-6DB33F?style=flat-square&logo=spring-security&logoColor=white)
 ![Keycloak](https://img.shields.io/badge/-Keycloak-2C2C2C?style=flat-square&logo=keycloak&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white)
+
+### Other tools  
 ![Zipkin](https://img.shields.io/badge/-Zipkin-000000?style=flat-square&logo=apache&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
