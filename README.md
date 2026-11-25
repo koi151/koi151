@@ -1,8 +1,5 @@
 # 👋 Hi, I'm Khoi Nguyen  
 
-I'm a final-year Computer Science student at Can Tho University.  
-I'm passionate about **Java backend development**, web technologies, and learning new tools and frameworks to enhance my skills.
-
 ## 📫 Contact me at [koi151tech@gmail.com](mailto:koi151tech@gmail.com)  
 
 
